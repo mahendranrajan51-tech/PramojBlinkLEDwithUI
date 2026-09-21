@@ -19,3 +19,5 @@ void set_led_state(bool state) {
     // LOW state means LED is ON
     digitalWrite(LED_BUILTIN, state ? LOW : HIGH);
 }
+
+// Commit 1
