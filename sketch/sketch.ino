@@ -22,4 +22,3 @@ void set_led_state(bool state) {
 
 // Commit 1
 // Commit 2
-// Commit 3
